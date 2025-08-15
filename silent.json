@@ -3,6 +3,7 @@
     "version": "1.21.8",
     "type": "fabric",
     "loader_version": "0.17.2",
+    "icon_url": "https://carlitospe.github.io/LauncherMeta/GEM.png",
     "mods": [
         {
             "name": "DistantHorizons",
@@ -10,3 +11,4 @@
         }
     ]
 }
+

@@ -2,7 +2,8 @@
     "versions": [
         {
             "name": "Silent",
-            "url": "url"
+            "url": "https://carlitospe.github.io/LauncherMeta/silent.json"
         }
     ]
+
 }

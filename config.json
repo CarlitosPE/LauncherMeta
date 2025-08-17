@@ -2,13 +2,14 @@
     "versions": [
         {
             "name": "Silent",
-            "url": "https://carlitospe.github.io/LauncherMeta/silent.json"
+            "url": "https://carlitospe.github.io/LauncherMeta/versions/silent.json"
         },
         {
             "name": "MarioKart",
-            "url": "https://carlitospe.github.io/LauncherMeta/mariokart.json"
+            "url": "https://carlitospe.github.io/LauncherMeta/versions/mariokart.json"
         }
     ]
 
 }
+
 

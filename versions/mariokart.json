@@ -9,16 +9,13 @@
             "url": "https://mediafilez.forgecdn.net/files/6382/664/sodium-fabric-0.6.13%2Bmc1.21.5.jar"
         },
         {
-            "name": "iris-fabric-1.8.11+mc1.21.5",
-            "url": "https://mediafilez.forgecdn.net/files/6369/436/iris-fabric-1.8.11%2Bmc1.21.5.jar"
-        },
-        {
             "name": "fabric-api-0.128.2+1.21.5",
             "url": "https://mediafilez.forgecdn.net/files/6863/346/fabric-api-0.128.2%2B1.21.5.jar"
         }
     ]
 
 }
+
 
 
 

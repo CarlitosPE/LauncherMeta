@@ -1,7 +1,6 @@
 {
     "name": "Silent",
-    "version": "1.21.8",
-    "type": "fabric",
+    "version": "1.21.5",
     "loader_version": "0.17.2",
     "icon_url": "https://carlitospe.github.io/LauncherMeta/icons/GEM.png",
     "mods": [
@@ -12,3 +11,4 @@
     ]
 
 }
+

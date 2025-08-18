@@ -1,15 +1,20 @@
 {
     "name": "Mario Kart",
-    "version": "1.21.1",
+    "version": "1.21.5",
     "loader_version": "0.17.2",
     "icon_url": "https://carlitospe.github.io/LauncherMeta/icons/Star.png",
     "mods": [
         {
-            "name": "DistantHorizons",
-            "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar"
+            "name": "Sodium",
+            "url": "https://mediafilez.forgecdn.net/files/6382/664/sodium-fabric-0.6.13%2Bmc1.21.5.jar"
+        }
+        {
+            "name": "IrisShaders",
+            "url": "https://mediafilez.forgecdn.net/files/6369/436/iris-fabric-1.8.11%2Bmc1.21.5.jar"
         }
     ]
 
 }
+
 
 

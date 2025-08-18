@@ -1,5 +1,5 @@
 {
-    "name": "Silent",
+    "name": "Mario Kart",
     "version": "1.21.1",
     "loader_version": "0.17.2",
     "icon_url": "https://carlitospe.github.io/LauncherMeta/icons/Star.png",
@@ -11,4 +11,5 @@
     ]
 
 }
+
 
